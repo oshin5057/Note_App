@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Note App</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="name">NAME</string>
+    <string name="title">TITLE</string>
+    <string name="contact">CONTACT</string>
+    <string name="note">NOTE</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="error_with_saving_notes">Error with saving notes</string>
+    <string name="note_saved">Note saved</string>
+    <string name="error_with_updatin_note">Error with Updating notes</string>
+    <string name="note_updated">Note Updated</string>
+    <string name="error_with_deleting_note">Error with deleting note</string>
+    <string name="note_deleted">Note Deleted</string>
+</resources>
